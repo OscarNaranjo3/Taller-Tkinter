@@ -11,6 +11,6 @@ los 3 widgets extra que se agregaron son:
 
   -messagebox.askretrycancel -> Mostrara un mensaje de error si las entradas fueron invalidas o si estaban vacias
  
- ![Not founded](https://raw.githubusercontent.com/jorozcove/Taller-Tkinter/master/Imagen1.png)
+ ![Not founded](https://raw.githubusercontent.com/jorozcove/Taller-Tkinter/master/img/Imagen1.png)
   
 
