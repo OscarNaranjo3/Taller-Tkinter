@@ -10,3 +10,7 @@ los 3 widgets extra que se agregaron son:
   -messagebox.showinfo -> Mostrara el resultado de la operacion
 
   -messagebox.askretrycancel -> Mostrara un mensaje de error si las entradas fueron invalidas o si estaban vacias
+ 
+ ![Not founded](https://raw.githubusercontent.com/jorozcove/Taller-Tkinter/master/Imagen1.png)
+  
+
